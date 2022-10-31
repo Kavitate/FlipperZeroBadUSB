@@ -3,6 +3,7 @@ REM Author: Kavitate
 REM Target:  Windows
 REM Version: 1.0
 REM Category: Prank
+REM Credit: https://asciimation.co.nz/index.php
 REM Opens command prompt to play Star Wars through Telnet.
 DELAY 900
 GUI r
