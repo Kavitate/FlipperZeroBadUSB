@@ -6,9 +6,9 @@ REM Category: Prank
 REM Opens command prompt to play Star Wars through Telnet.
 REM
 REM startup delay
-DELAY 300
+DELAY 900
 GUI r
-DELAY 500
+DELAY 900
 STRING cmd
 ENTER
 DELAY 2000
