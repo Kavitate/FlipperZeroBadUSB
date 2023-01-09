@@ -1,4 +1,4 @@
 function global:touchpad()
 {
-    Disable-PnpDevice -InstanceId "HID\SYNA2393&COL02\5&10464366&0&0001" -Confirm:$false
+    Disable-PnpDevice -InstanceId "HID\VEN_04F3&COL02\5&175E784A&0&0001" -Confirm:$false
 }
