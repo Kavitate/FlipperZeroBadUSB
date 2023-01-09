@@ -2,10 +2,8 @@
 
 ## Description
 
-The Nope-Pad.txt file will disable the built-in touchpad within a laptop computer.
+Nope-Pad.txt will disable the built-in touchpad within a laptop computer. (Must be rebooted to take effect!)
+  - Running Nope-Pad-Revert.txt will restore the touchpad back to normal upon reboot.
 
-*In order for the changes to take effect, the laptop will need to be rebooted!
-
-## Fix
-
-In order to restore the touchpad back to normal functionality, run the Nope-Pad-FIX.txt file.
+Nope-Pad-Instant.txt uses the GUI to disable the touchpad instantly. (*This option does not require a reboot, but is less dependable.)
+  - Running Nope-Pad-Instant.txt again will restore the touchpad back to normal instantly.
