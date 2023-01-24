@@ -5,5 +5,5 @@ REM Version: 1.0
 REM Category: Prank
 REM Operation: Activates the high contrast setting within Windows making everything appear darker.
 ALT-SHIFT PRINTSCREEN
-DELAY 500
+DELAY 950
 ENTER
