@@ -10,4 +10,4 @@ Be sure to :star2: this repo or leave a follow to stay up-to-date when new paylo
 All content provided within this repository is for educational and informational purposes only. We shall not be responsible for any loss or damage of whatever nature (direct, indirect, consequential, or otherwise) which may arise as a result of your use of this repository.
 
 ## :pager: Contact
-Please feel free to reach out to me on Discord at `Kavitate#6599` or on my [Discord server](https://discord.gg/mJBF9jXb42).
+Please feel free to reach out to me on Discord at `Kavitate#6599`.
